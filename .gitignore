@@ -1,0 +1,5 @@
+#Ignore checkpoint data from local repo
+.ipynb_checkpoints
+
+#Ignore output files from 'Airbnb Raw Data Aggregation.ipynb'
+SF Airbnb Raw Data - Aggregated/
