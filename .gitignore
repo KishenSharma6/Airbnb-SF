@@ -2,5 +2,5 @@
 .ipynb_checkpoints
 
 #Ignore output files from 'Airbnb Raw Data Aggregation.ipynb'
-SF Airbnb Raw Data - Aggregated/
+Data/01_Raw/SF Airbnb Raw Data/SF Airbnb Raw Data - Aggregated/
 Data/02_Intermediate/
