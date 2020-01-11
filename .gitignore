@@ -3,4 +3,7 @@
 
 #Ignore output files from 'Airbnb Raw Data Aggregation.ipynb'
 Data/01_Raw/SF Airbnb Raw Data/SF Airbnb Raw Data - Aggregated/
+
+#Ignore Data Files, files too large
 Data/02_Intermediate/
+Data/03_Processed/
