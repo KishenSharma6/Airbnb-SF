@@ -8,5 +8,5 @@ Data/01_Raw/SF Airbnb Raw Data/SF Airbnb Raw Data - Aggregated/
 Data/02_Intermediate
 Data/03_Processed
 Data/04_Models/01_19_2020_Listings_Processed.csv
-Data/04_Models/2020_0128_Test_Data
-Data/04_Models/2020_0128_Test_Labels
+Data/04_Models/2020_0128_Test_Data.csv
+Data/04_Models/2020_0128_Test_Labels.csv
